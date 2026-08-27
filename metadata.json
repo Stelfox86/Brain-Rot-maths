@@ -1,0 +1,6 @@
+{
+  "name": "Sigma Maths UK: Year 3 Brainrot Edition",
+  "description": "An engaging, UK curriculum-aligned Maths app for 7-8 year olds (Year 3) featuring additions, subtractions, times tables (2, 3, 4, 5, 8, 10x), boss battles, tests, and brainrot unlockables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
